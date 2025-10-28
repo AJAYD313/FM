@@ -88,6 +88,7 @@ Output Waveform
 
 Tabulation
 
+<img width="1192" height="901" alt="image" src="https://github.com/user-attachments/assets/62dddefc-1304-4310-86c9-cfeb55b67448" />
 
 
 Calculation
